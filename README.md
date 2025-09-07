@@ -1,11 +1,9 @@
-Got it. Here’s a **clean README** version (no emojis, no clone steps), with your screenshots included in a neat way.
-
 ---
 
 # Meme-Coin Radar (TBA)
 
-Meme-Coin Radar is an AI-powered app that discovers, analyzes, and tracks new meme-coins across the crypto space.
-It scans social media platforms (TikTok, X/Twitter, Reddit, Telegram, etc.), measures traction, and helps identify potential meme-coin buys at the right time.
+Meme-Coin Radar is an AI-powered app that discovers, analyzes, and tracks new meme-coins across the crypto space
+It scans social media platforms (TikTok, X/Twitter, Reddit, Telegram, etc.), measures traction, and helps identify potential meme-coin buys at the right time
 
 ---
 
@@ -48,17 +46,6 @@ It scans social media platforms (TikTok, X/Twitter, Reddit, Telegram, etc.), mea
 ![Leaderboard](https://github.com/user-attachments/assets/09c07c63-ae28-473c-8608-fc6196a94b5a)
 
 ---
-
-## Tech Stack
-
-* Frontend: React, TailwindCSS
-* Backend: Node.js, Express
-* Database: MongoDB / PostgreSQL
-* AI & Analytics: Python (NLP sentiment analysis, traction scoring)
-* Blockchain Integration: Web3.js / Ethers.js (Ethereum, BSC, Solana)
-
----
-
 ## Roadmap
 
 * AI-generated meme-coin prediction models (2x, 5x, 10x potential)
@@ -71,6 +58,6 @@ It scans social media platforms (TikTok, X/Twitter, Reddit, Telegram, etc.), mea
 
 ## Disclaimer
 
-This project is for educational and research purposes only.
-It does not provide financial advice. Meme-coins are highly volatile and risky — do your own research before investing.
+This project is for educational and research purposes only
+It does not provide financial advice.... Meme-coins are highly volatile and risky DYOR before investing
 
