@@ -31,11 +31,11 @@ It scans social media platforms (TikTok, X/Twitter, Reddit, Telegram, etc.), mea
 
 ![Dashboard](https://github.com/user-attachments/assets/aa9271af-0c61-449d-bf19-5890ea876207)
 
-### Pick of the Day
+### Charts
 
 ![Pick](https://github.com/user-attachments/assets/44b00f9e-1851-4571-a80f-2d2fdc73bdcb)
 
-### ROI Tracker
+### Social Media Analysis 
 
 ![ROI](https://github.com/user-attachments/assets/14bf8d08-a0ac-4eef-85b8-d2ee5684229a)
 
@@ -43,7 +43,7 @@ It scans social media platforms (TikTok, X/Twitter, Reddit, Telegram, etc.), mea
 
 ![Contract Safety](https://github.com/user-attachments/assets/29690b9c-03ff-40eb-86b0-40561166e7aa)
 
-### Meme Leaderboard
+### Portfolio Management 
 
 ![Leaderboard](https://github.com/user-attachments/assets/09c07c63-ae28-473c-8608-fc6196a94b5a)
 
