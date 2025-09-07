@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+Got it. Here’s a **clean README** version (no emojis, no clone steps), with your screenshots included in a neat way.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+# Meme-Coin Radar (TBA)
 
-In the project directory, you can run:
+Meme-Coin Radar is an AI-powered app that discovers, analyzes, and tracks new meme-coins across the crypto space.
+It scans social media platforms (TikTok, X/Twitter, Reddit, Telegram, etc.), measures traction, and helps identify potential meme-coin buys at the right time.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Meme-Coin Discovery – Scans top 100 new meme coins at intervals (5m / 10m).
+* AI-Based Percentage Meter – Confidence score based on social traction and token metrics.
+* Pick of the Day – Daily top AI-recommended meme-coin.
+* ROI Tracker – Tracks returns since recommendation and highest returns achieved.
+* Direct Investment Links – One-click to trade (Uniswap, PancakeSwap, Raydium, etc.).
+* Safety Checks – Detects honeypots, liquidity lock, and ownership renouncement.
+* Performance Dashboard – Compare meme-coins against BTC, ETH, and SOL benchmarks.
+* Social Sentiment Analysis – AI sentiment scoring from TikTok, X, Telegram, and more.
+* Exit Alerts – Notifications when a pick pumps or dumps past thresholds.
+* Community Votes – Crowd-sourced hype and meme ratings.
+* Meme Leaderboard – Daily ranking of the most viral meme-coins.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots
 
-### `npm run build`
+### Dashboard
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Dashboard](https://github.com/user-attachments/assets/aa9271af-0c61-449d-bf19-5890ea876207)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Pick of the Day
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Pick](https://github.com/user-attachments/assets/44b00f9e-1851-4571-a80f-2d2fdc73bdcb)
 
-### `npm run eject`
+### ROI Tracker
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![ROI](https://github.com/user-attachments/assets/14bf8d08-a0ac-4eef-85b8-d2ee5684229a)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Safety & Contract Checks
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Contract Safety](https://github.com/user-attachments/assets/29690b9c-03ff-40eb-86b0-40561166e7aa)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Meme Leaderboard
 
-## Learn More
+![Leaderboard](https://github.com/user-attachments/assets/09c07c63-ae28-473c-8608-fc6196a94b5a)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Tech Stack
 
-### Code Splitting
+* Frontend: React, TailwindCSS
+* Backend: Node.js, Express
+* Database: MongoDB / PostgreSQL
+* AI & Analytics: Python (NLP sentiment analysis, traction scoring)
+* Blockchain Integration: Web3.js / Ethers.js (Ethereum, BSC, Solana)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## Roadmap
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* AI-generated meme-coin prediction models (2x, 5x, 10x potential)
+* Meme generator for community engagement
+* Portfolio sync with wallet connect
+* Meme-Coin ETF simulation (weekly basket of top coins)
+* Mobile app for iOS and Android
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Disclaimer
 
-### Advanced Configuration
+This project is for educational and research purposes only.
+It does not provide financial advice. Meme-coins are highly volatile and risky — do your own research before investing.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
